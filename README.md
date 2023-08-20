@@ -4,7 +4,7 @@ This is an Unsupervised Machine Learning project used to make a Book Recommendat
 
 The goal of this project is to develop a book recommendation system that provides personalized recommendations to users based on their preferences and interests. The system should take into account various factors such as the user's reading history, genre preferences, ratings, and other relevant information to generate accurate and relevant book recommendations.
 
-(image)
+![0_1AyeG5-2hFsaiXOt](https://github.com/cltgoutham/Capstone-4-Book-Recommendation-System/assets/124442638/efbdb361-f568-4547-8c99-81d470179f07)
 
 **Introduction**
 
@@ -41,7 +41,10 @@ This dataset consist of 3 csv files:
 ## 3. **Data visualization**
 * Analysing the data and visualizing with different plots.
 
-  (image)
+![Screenshot (14)](https://github.com/cltgoutham/Capstone-4-Book-Recommendation-System/assets/124442638/5c9c73e7-bcbf-4223-b5c5-2ac1be5b82d6)
+![Screenshot (13)](https://github.com/cltgoutham/Capstone-4-Book-Recommendation-System/assets/124442638/7a50d82b-a306-4ea5-a3a6-f757eadc32ed)
+![Screenshot (12)](https://github.com/cltgoutham/Capstone-4-Book-Recommendation-System/assets/124442638/977b0824-ff91-4948-9fd0-058bff19a089)
+![Screenshot (15)](https://github.com/cltgoutham/Capstone-4-Book-Recommendation-System/assets/124442638/540fdf2a-2207-431c-9c42-e047721ff379)
 
 ## 4. **Feature Engineering and Model Building**
 
@@ -53,6 +56,13 @@ This dataset consist of 3 csv files:
   - Creating Pivot table and Sparse matrics
   - NearestNeighbor Algorithm
   - KMeans Algorithm
+ 
+
+![Screenshot (17)](https://github.com/cltgoutham/Capstone-4-Book-Recommendation-System/assets/124442638/b7d74b6b-ba29-4743-a7c4-ed6d2d293b46)
+
 
 * Created Dropdown to make the system easy accessible and interactive.
+
+
+
 
